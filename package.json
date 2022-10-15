@@ -1,6 +1,10 @@
 {
   "author": "John Hamlin",
   "description": "A project created by working my way through a freeCodeCamp tutorial on backend development.",
+  "keywords": [
+    "freecodecamp",
+    "tutorial"
+  ],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
